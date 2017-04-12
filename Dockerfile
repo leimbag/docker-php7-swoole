@@ -1,4 +1,4 @@
-FROM php:7.0.17-cli
+FROM php:7.0.8-cli
 
 RUN apt-get update
 
